@@ -1,1 +1,3 @@
-# notes ghgh
+# Number row characters
+!@#$^&*()_+
+
