@@ -8,6 +8,15 @@
 - * Asterisk
 - ( Left Parenthesis
   
-  
+# Links 
+- [GitHub](https://github.com)
+- [GitHub Pages](https://pages.github.com/)
+- [Markdown Guide](https://www.markdownguide.org/)
 
+# Experiments
+
+Here are some fun emojis to play with:
+- :blush:
+- :imp:
+- :fire:
 
