@@ -47,3 +47,5 @@ end-of-line
 outline
 linear
 ```
+
+[CLI commands](docs/cli.md)
